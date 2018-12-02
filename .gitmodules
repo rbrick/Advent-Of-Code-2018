@@ -1,3 +1,6 @@
 [submodule "01-frequency"]
 	path = 01-frequency
 	url = ./01-frequency
+[submodule "02-boxids"]
+    path = 02-boxids
+    url = ./02-boxids
